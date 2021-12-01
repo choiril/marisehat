@@ -1,0 +1,1 @@
+az storage account management-policy create --account-name klmsstorage --policy policy.json --resource-group klinikmarisehat

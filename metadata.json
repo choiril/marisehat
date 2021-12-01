@@ -1,0 +1,9 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Membuat storage account MariSehat",
+  "description": "Membuat storage account dan blob container",
+  "summary": "Template untuk capstone project Kampus Merdeka Track Cloud Fundamental dari Microsoft",
+  "githubUsername": "choiril",
+  "dateUpdated": "2021-11-28"
+}
